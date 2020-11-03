@@ -1,0 +1,11 @@
+brightness,day of month,elevation (m),employee ID,eye color,pencil hardness,product quality,target distance,time of day,ZIP code
+200,12,-28,3155,green,2B,good,2,AM,44060
+400,18,2,2190,blue,B,good,10,AM,44077
+450,2,0,1733,blue,2B,good,80,PM,43077
+800,8,55,3867,hazel,B,good,70,PM,43215
+700,31,68,1258,brown,HB,better,71,AM,45429
+1000,28,305,1259,brown,2H,better,90,AM,43085
+1100,17,909,8390,brown,H,better,210,PM,43017
+1600,3,1585,2178,blue,B,better,1200,PM,43016
+2400,6,1619,2120,green,2H,best,700,AM,43110
+3100,22,2850,4483,gray,HB,best,830,AM,43123
